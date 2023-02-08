@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a305a524-e28e-47da-85e5-194608347d12" name="Changes" comment="Fundamentos do Java.&#10;Aula 2: cálculo de Tabuada, Fibonacci, Contagem Regressiva e opção de Sair." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LMqESSDCDQGZjSNtFiziRRtWOC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Medidas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.Medidas" />
+      <module name="FundamentosJava.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fundamentos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Medidas" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a305a524-e28e-47da-85e5-194608347d12" name="Changes" comment="" />
+      <created>1675691192778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675691192778</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Fundamentos do Java.&#10;Aula 1">
+      <created>1675863215887</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675863215887</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fundamentos do Java.&#10;Aula 1">
+      <created>1675863235520</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675863235520</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fundamentos do Java.&#10;Aula 1">
+      <created>1675863247764</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675863247764</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fundamentos do Java.&#10;Aula 1">
+      <created>1675863256013</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675863256013</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fundamentos do Java.&#10;Aula 1">
+      <created>1675863269519</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675863269519</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fundamentos do Java.&#10;Aula 1">
+      <created>1675863470201</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675863470201</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fundamentos do Java.&#10;Aula 1">
+      <created>1675863519407</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675863519407</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fundamentos do Java.&#10;Aula 1">
+      <created>1675863839975</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675863839975</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fundamentos do Java.&#10;Aula 2: cálculo de Tabuada, Fibonacci, Contagem Regressiva e opção de Sair.">
+      <created>1675957231978</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675957231978</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fundamentos do Java.&#10;Aula 2: cálculo de Tabuada, Fibonacci, Contagem Regressiva e opção de Sair.">
+      <created>1675957269055</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675957269055</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Fundamentos do Java.&#10;Aula 2: cálculo de Tabuada, Fibonacci, Contagem Regressiva e opção de Sair.">
+      <created>1675957277452</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675957277452</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Fundamentos do Java.&#10;Aula 2: cálculo de Tabuada, Fibonacci, Contagem Regressiva e opção de Sair.">
+      <created>1675957283902</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1675957283902</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Fundamentos do Java.&#10;Aula 2: cálculo de Tabuada, Fibonacci, Contagem Regressiva e opção de Sair.">
+      <created>1675957361736</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1675957361736</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fundamentos do Java.&#10;Aula 1" />
+    <MESSAGE value="Fundamentos do Java.&#10;Aula 2: Método que calcula a tabuada, Fibonacci, Contagem Regressiva e opção de Sair." />
+    <MESSAGE value="Fundamentos do Java.&#10;Aula 2: cálculo de Tabuada, Fibonacci, Contagem Regressiva e opção de Sair." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fundamentos do Java.&#10;Aula 2: cálculo de Tabuada, Fibonacci, Contagem Regressiva e opção de Sair." />
+  </component>
+</project>
