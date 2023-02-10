@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a305a524-e28e-47da-85e5-194608347d12" name="Changes" comment="Fundamentos do Java.&#10;Aula 2: cálculo de Tabuada, Fibonacci, Contagem Regressiva e opção de Sair." />
+    <list default="true" id="a305a524-e28e-47da-85e5-194608347d12" name="Changes" comment="Fundamentos do Java.&#10;Aula 2: cálculo de Tabuada, Fibonacci, Contagem Regressiva e opção de Sair.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fundamentos/Medidas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fundamentos/Medidas.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,7 +163,28 @@
       <option name="project" value="LOCAL" />
       <updated>1675957361736</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Fundamentos do Java.&#10;Aula 2: cálculo de Tabuada, Fibonacci, Contagem Regressiva e opção de Sair.">
+      <created>1675957500708</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1675957500709</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Fundamentos do Java.&#10;Aula 2: cálculo de Tabuada, Fibonacci, Contagem Regressiva e opção de Sair.">
+      <created>1675957563727</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1675957563727</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Fundamentos do Java.&#10;Aula 2: cálculo de Tabuada, Fibonacci, Contagem Regressiva e opção de Sair.">
+      <created>1675957731211</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1675957731211</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +201,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fundamentos do Java.&#10;Aula 1" />
     <MESSAGE value="Fundamentos do Java.&#10;Aula 2: Método que calcula a tabuada, Fibonacci, Contagem Regressiva e opção de Sair." />
+    <MESSAGE value="Fundamentos do Java.&#10;Aula 1&#10;Aula 2: cálculo de Tabuada, Fibonacci, Contagem Regressiva e opção de Sair." />
     <MESSAGE value="Fundamentos do Java.&#10;Aula 2: cálculo de Tabuada, Fibonacci, Contagem Regressiva e opção de Sair." />
     <option name="LAST_COMMIT_MESSAGE" value="Fundamentos do Java.&#10;Aula 2: cálculo de Tabuada, Fibonacci, Contagem Regressiva e opção de Sair." />
   </component>

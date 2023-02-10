@@ -28,6 +28,7 @@ public class Medidas {
             System.out.println("(5) - Tabuada");
             System.out.println("(6) - Fibonacci");
             System.out.println("(7) - Contagem Regressiva");
+            System.out.println("(8) - Divisão por Zero");
             System.out.println("(S) - Sair");
 
             opcao = entrada.nextLine(); // Quando é texto, usa o nextLine
@@ -51,6 +52,9 @@ public class Medidas {
                 case "S":
                     System.out.println("Agradecemos pela preferência!");
                     break;
+                case "8":
+                    divisaoPorZero();
+                    break;
                 default:
                     System.out.println("Opcao Invalida: " + opcao); // Tratamento de erro
             }
@@ -61,7 +65,6 @@ public class Medidas {
         }
 
     }
-
 
     public static int calcularAreadoQuadrado() {
 
@@ -81,6 +84,7 @@ public class Medidas {
         return lado * lado; // ou lado ^ 2 // O return sempre deve ser a última linhha
     }
 
+
     public static void tabuada() {
         System.out.println("Você quer calcular a tabuada de qual número?");
         byte numero = entrada.nextByte(); // byte é um número entre 0 e 255
@@ -89,6 +93,7 @@ public class Medidas {
             System.out.print(numero * i + " ");
         }
     }
+
 
     public static void fibonacci() {
         System.out.println("Quantos números deseja calcular na sequência?");
@@ -127,6 +132,25 @@ public class Medidas {
 
         }
 
+    }
+
+    public static void divisaoPorZero() {
+        System.out.print("Qual é o dividendo? (número a ser dividido) ");
+        byte dividendo = entrada.nextByte();
+        System.out.print("Qual é o divisor? (número que divide o dividendo) ");
+        byte divisor = entrada.nextByte();
+
+
+        try {
+            System.out.println("O resultado é: " + dividendo / divisor);
+        } catch (Exception e) {
+            //String erro = e.getMessage();
+                    System.out.println("Mensagem temporária em Inglês: " + e.getMessage());
+            }
+        finally {
+            System.out.println("Por hoje é só, pessoal!");
+
+        }
     }
 }
 
